@@ -1,4 +1,3 @@
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+# evoron klipper config backup 💾 
 
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+Provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
